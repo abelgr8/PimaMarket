@@ -1,0 +1,170 @@
+TaxYear,Parcel,Div,InterfaceFlag,Fcv,OverrideFcv,OvrRsn,SqFt,BldgUnits,AssocParcels,StreetNo,StreetDir,StreetPre,StreetName,StreetSuf,Zip,CityCode,ShpCtrEftYr,Appraiser,Phone
+2018,116193560,PProp,N,1135846,0,0,10927,0,N,440,N,               ,BONITA AVE               ,    ,0,TUC,0,Eduardo P,724-6980
+2018,116193570,PProp,N,3932224,0,0,39840,0,N,420,N,               ,BONITA AVE               ,    ,0,TUC,0,Eduardo P,724-6980
+2018,11619358B,PProp,N,55671,0,0,0,0,N,420,N,               ,BONITA AVE               ,    ,0,TUC,0,Eduardo P,724-6980
+2018,11619365A,PProp,N,1078920,0,0,19464,0,N,451,N,               ,BONITA AVE               ,    ,0,TUC,0,Ryan C,724-8292
+2018,117100370,PProp,N,361765,0,0,16540,0,N,445,N,               ,NINTH                    ,    ,0,TUC,0,Ryan C,724-8292
+2018,11716008A,PProp,N,191204,0,0,5125,0,N,189,E,               ,TOOLE AVE                ,    ,0,TUC,0,Dustin W,724-7444
+2018,117160090,PProp,N,484076,0,0,9518,0,N,197,E,               ,TOOLE AVE                ,    ,0,TUC,0,Ryan C,724-8292
+2018,13316001B,PProp,N,29396,0,0,200,0,N,2402,N,               ,CAMINO PRINCIPAL         ,    ,0,TUC,0,Ryan C,724-8292
+2018,136310260,PProp,N,1369813,0,0,7079,0,N,4675,S,               ,HARRISON                 ,    ,0,TUC,0,Ryan C,724-8292
+2018,140420740,Com  ,N,223415,0,0,6492,0,N,7250,S,               ,TUCSON BLVD              ,    ,0,TUC,0,Eduardo P,724-6980
+2018,14043013B,Com  ,Y,63676011,0,0,1500869,0,N,1865,E,               ,AERO PARK,    ,0,TUC,0,Renee A,724-8010
+2018,14043013C,Com,Y,1755954,0,0,15699,0,N,8087,S,,NOGALES,HWY,,TUC,0,Eduardo P,724-6980
+2018,140500020,PProp,N,2427864,0,0,44790,0,N,1865,E,               ,AERO PARK BLVD           ,    ,0,TUC,0,Ryan C,724-8292
+2018,205000010,PProp,N,51727,0,0,686,0,N,11801,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000020,PProp,N,56697,0,0,752,0,N,11802,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000030,PProp,N,102552,0,0,784,0,N,11803,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000040,PProp,N,74378,0,0,768,0,N,11804,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000050,PProp,N,62559,0,0,830,0,N,11805,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000060,PProp,N,59032,0,0,754,0,N,11806,N,               ,UPPER BEAR WALLOW RD     ,    ,0,MTL,0,Bill B,724-3096
+2018,205000090,PProp,N,43302,0,0,564,0,N,11908,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000100,PProp,N,81065,0,0,630,0,N,11909,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000110,PProp,N,66725,0,0,831,0,N,11910,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000120,PProp,N,73847,0,0,869,0,N,11911,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000130,PProp,N,62511,0,0,830,0,N,11912,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000140,PProp,N,83187,0,0,1235,0,N,11913,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000150,PProp,N,43923,0,0,551,0,N,11914,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000160,PProp,N,46532,0,0,662,0,N,11915,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000190,PProp,N,66347,0,0,779,0,N,11918,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000200,PProp,N,119648,0,0,1528,0,N,11919,N,               ,UPPER SOLDIERS CAMP RD   ,    ,0,MTL,0,Bill B,724-3096
+2018,205000250,PProp,N,79327,0,0,1227,0,N,12022,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000260,PProp,N,45030,0,0,650,0,N,12023,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000270,PProp,N,43711,0,0,612,0,N,12023,N,               ,SYKES KNOB RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000290,PProp,N,55279,0,0,792,0,N,12023,N,               ,SYKES KNOB RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000300,PProp,N,55200,0,0,730,0,N,12024,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000310,PProp,N,47076,0,0,674,0,N,12025,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000320,PProp,N,52320,0,0,811,0,N,12026,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000330,PProp,N,36620,0,0,498,0,N,12026,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000340,PProp,N,138929,0,0,1067,0,N,12027,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000360,PProp,N,57505,0,0,868,0,N,12028,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000370,PProp,N,26773,0,0,770,0,N,12028,N,SOLDIERS       ,LAKE RD                  ,    ,0,MTL,0,Bill B,724-3096
+2018,205000400,PProp,N,44688,0,0,680,0,N,12031,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000410,PProp,N,57319,0,0,859,0,N,120311,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000420,PProp,N,62636,0,0,704,0,N,12033,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000430,PProp,N,42619,0,0,577,0,N,12033,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000440,PProp,N,77534,0,0,1194,0,N,12035,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000450,PProp,N,92423,0,0,1428,0,N,12036,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000480,PProp,N,46114,0,0,666,0,N,12038,N,               ,BUTTERFLY TR             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000490,PProp,N,66746,0,0,852,0,N,12039,N,               ,SYKES KNOB RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000510,PProp,N,98884,0,0,1312,0,N,12041,N,               ,SYKES KNOB RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000520,PProp,N,162550,0,0,1274,0,N,12042,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000530,PProp,N,54967,0,0,667,0,N,12043,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000540,PProp,N,50423,0,0,615,0,N,12044,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000550,PProp,N,43899,0,0,543,0,N,12045,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000560,PProp,N,32334,0,0,392,0,N,12046,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000570,PProp,N,99242,0,0,536,0,N,12047,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000580,PProp,N,113684,0,0,610,0,N,12048,N,               ,FERN RIDGE RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000600,PProp,N,169399,0,0,840,0,N,12050,N,,FERN RIDGE,RD,,MTL,0,Bill B,724-3096
+2018,205000610,PProp,N,53408,0,0,627,0,N,12051,N,               ,FERN RIDGE RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000640,PProp,N,49789,0,0,610,0,N,12054,N,               ,FERN RIDGE RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000650,PProp,N,70892,0,0,882,0,N,12055,N,               ,FERN RIDGE RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000660,PProp,N,32607,0,0,403,0,N,12065,N,               ,SOLDIERS CAMP RD         ,    ,0,MTL,0,Bill B,724-3096
+2018,205000670,PProp,N,154624,0,0,854,0,N,12057,N,,FERN RIDGE,RD,,MTL,0,Bill B,724-3096
+2018,205000680,PProp,N,64011,0,0,813,0,N,12058,N,               ,FERN RIDGE RD            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000690,PProp,N,109286,0,0,585,0,N,12059,N,               ,FERN RIDGE               ,    ,0,MTL,0,Bill B,724-3096
+2018,205000700,PProp,N,162521,0,0,883,0,N,12060,N,               ,FERN RIDGE               ,    ,0,MTL,0,Bill B,724-3096
+2018,205000710,PProp,N,151299,0,0,816,0,N,12061,N,               ,FERN RIDGE               ,    ,0,MTL,0,Bill B,724-3096
+2018,205000720,PProp,N,224253,0,0,1198,0,N,12062,N,,FERN RIDGE,RD,,MTL,0,Bill B,724-3096
+2018,205000730,PProp,N,184618,0,0,997,0,N,12063,N,,FERN RIDGE,RD,,MTL,0,Bill B,724-3096
+2018,205000740,PProp,N,72325,0,0,1128,0,N,9708,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000760,PProp,N,53820,0,0,671,0,N,9702,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000770,PProp,N,49420,0,0,601,0,N,9703,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000790,PProp,N,39743,0,0,543,0,N,9705,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000800,PProp,N,56120,0,0,720,0,N,9706,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000810,PProp,N,46677,0,0,637,0,N,9707,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000820,PProp,N,40993,0,0,558,0,N,9709,N,               , WILLOW SOUTH            ,    ,0,MTL,0,Bill B,724-3096
+2018,205000830,PProp,N,66097,0,0,870,0,N,9710,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000860,PProp,N,41719,0,0,480,0,N,9713,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000880,PProp,N,61845,0,0,750,0,N,9715,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000890,PProp,N,41092,0,0,509,0,N,9716,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000920,PProp,N,31321,0,0,488,0,N,9719,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000940,PProp,N,35746,0,0,448,0,N,9721,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000950,PProp,N,109386,0,0,832,1,N,9722,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000960,PProp,N,25732,0,0,303,0,N,9723,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000970,PProp,N,28277,0,0,320,0,N,9724,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000980,PProp,N,31381,0,0,338,0,N,9725,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205000990,PProp,N,39085,0,0,452,0,N,9726,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001000,PProp,N,39865,0,0,520,0,N,9801,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001010,PProp,N,57640,0,0,819,0,N,9802,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001040,PProp,N,59311,0,0,685,0,N,9805,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001060,PProp,N,71350,0,0,982,0,N,9807,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001070,PProp,N,31854,0,0,397,0,N,9808,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001080,PProp,N,49690,0,0,523,0,N,9809,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001090,PProp,N,62542,0,0,697,0,N,9810,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001100,PProp,N,52223,0,0,705,0,N,9811,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001110,PProp,N,41011,0,0,530,0,N,9812,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001120,PProp,N,34163,0,0,519,0,N,9813,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001130,PProp,N,37096,0,0,564,0,N,9814,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001150,PProp,N,36785,0,0,461,0,N,9816,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001160,PProp,N,35893,0,0,450,0,N,9817,N,               ,WILLOW SOUTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001170,PProp,N,33240,0,0,490,0,N,9818,N,               ,WILLOW CANYON            ,    ,0,MTL,0,Bill B,724-3096
+2018,205001180,PProp,N,45662,0,0,586,0,N,9819,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001190,PProp,N,59691,0,0,738,0,N,9820,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001220,PProp,N,39350,0,0,527,0,N,9823,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001230,PProp,N,70347,0,0,874,0,N,9824,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001240,PProp,N,68416,0,0,809,0,N,9825,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001260,PProp,N,67617,0,0,844,0,N,9827,N,               ,WILLOW CANYON            ,    ,0,MTL,0,Bill B,724-3096
+2018,205001270,PProp,N,60848,0,0,803,0,N,9828,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001290,PProp,N,28981,0,0,330,0,N,9830,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001300,PProp,N,67469,0,0,923,0,N,9831,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001310,PProp,N,52230,0,0,747,0,N,9832,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001320,PProp,N,48384,0,0,463,0,N,9833,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001330,PProp,N,35905,0,0,480,0,N,9834,N,               ,WILLOW RIDGE             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001360,PProp,N,37596,0,0,564,0,N,9837,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001370,PProp,N,34169,0,0,503,0,N,9838,N,               ,WILLOW NORTH             ,    ,0,MTL,0,Bill B,724-3096
+2018,205001380,PProp,N,66747,0,0,1033,0,N,9839,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001390,PProp,N,31035,0,0,420,0,N,9840,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001400,PProp,N,43786,0,0,542,0,N,9841,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001420,PProp,N,82837,0,0,1235,0,N,9843,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001440,PProp,N,44222,0,0,529,0,N,9845,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001450,PProp,N,49624,0,0,543,0,N,9846,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001460,PProp,N,34430,0,0,453,0,N,9847,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001470,PProp,N,183763,0,0,996,0,N,9848,N,,WILLOW,LOOP,,MTL,0,Bill B,724-3096
+2018,205001480,PProp,N,195054,0,0,1051,0,N,9849,N,,WILLOW,LOOP,,MTL,0,Bill B,724-3096
+2018,205001490,PProp,N,31774,0,0,454,0,N,9850,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001500,PProp,N,25255,0,0,288,0,N,9851,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001510,PProp,N,84652,0,0,552,0,N,9852,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001520,PProp,N,30350,0,0,394,0,N,9854,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001540,PProp,N,50648,0,0,600,0,N,9856,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001550,PProp,N,44138,0,0,564,0,N,9857,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001570,PProp,N,44776,0,0,600,0,N,9859,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001580,PProp,N,28747,0,0,336,0,N,9860,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001590,PProp,N,94459,0,0,720,0,N,9861,N,               ,WILLOW LOOP              ,    ,0,MTL,0,Bill B,724-3096
+2018,205001600,PProp,N,32368,0,0,554,0,N,9862,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001630,PProp,N,83421,0,0,856,0,N,9865,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001660,PProp,N,48560,0,0,584,0,N,9868,N,               ,WILLOW LOOP              ,    ,0,MTL,0,Bill B,724-3096
+2018,205001670,PProp,N,79141,0,0,812,0,N,9869,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001690,PProp,N,34711,0,0,417,0,N,9875,N,               ,WILLOW CANYON            ,    ,0,MTL,0,Bill B,724-3096
+2018,205001730,PProp,N,64574,0,0,1003,0,N,9879,N,               ,WILLOW                   ,    ,0,MTL,0,Bill B,724-3096
+2018,205001800,PProp,N,116552,0,0,1936,0,N,12514,N,               ,SABINO CANYON PKWY       ,    ,0,MTL,0,Bill B,724-3096
+2018,205003000,PProp,N,86162,0,0,1837,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003020,PProp,N,97508,0,0,1425,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003030,PProp,N,32889,0,0,404,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003060,PProp,N,438467,0,0,11437,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003070,PProp,N,42230,0,0,1201,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003080,PProp,N,65131,0,0,2592,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003090,PProp,N,3959,0,0,0,0,N,,,,,,,MTL,0,Ryan C,724-8292
+2018,205003110,PProp,N,38872,0,0,1043,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,205003130,PProp,N,4123,0,0,0,0,N,,,,,,,MTL,0,Bill B,724-3096
+2018,20513008A,Com,Y,715895,0,0,4238,0,N,13170,N,               ,CONTROL                  ,    ,0,MTL,0,Eduardo P,724-6980
+2018,208000020,PProp,N,106193,0,0,3552,0,N,,,,,,,,0,Ryan C,724-8292
+2018,208000040,PProp,N,10574,0,0,0,0,N,3601,N,               ,RESERVATION              ,    ,0,MAR,0,Ryan C,724-8292
+2018,208000120,PProp,N,12385,0,0,989,0,N,,,,,,,,0,Ryan C,724-8292
+2018,208000130,PProp,N,8456,0,0,2550,0,N,,,,,,,,0,Ryan C,724-8292
+2018,208000150,PProp,N,48458,0,0,1178,0,N,,,,,,,,0,Ryan C,724-8292
+2018,208000160,PProp,N,76607,0,0,2989,0,N,1111,X,               ,////                     ,    ,0,TUC,0,Ryan C,724-8292
+2018,208000360,PProp,N,21414,0,0,848,0,N,,,,,,,,0,Ryan C,724-8292
+2018,208050450,PProp,N,336224,0,0,3,0,N,17475,W,EL             ,TIRO                     ,    ,0,MAR,0,Eduardo P,724-6980
+2018,21504001K,PProp,N,384673,0,0,7144,0,N,11600,N,               ,SANDERS                  ,    ,0,MAR,0,Ryan C,724-8292
+2018,215090450,PProp,N,151889,0,0,19992,0,N,11700,W,               ,AVRA VALLEY RD           ,    ,0,MAR,0,Ryan C,724-8292
+2018,215090470,PProp,N,66118,0,0,2450,0,N,10785,N,               ,SANDARIO                 ,    ,0,TUC,0,Ryan C,724-8292
+2018,215100500,PProp,N,5909734,0,0,344779,0,N,11700,W,               ,AVRA VALLEY RD           ,    ,0,MAR,0,Ryan C,724-8292
+2018,217000030,PProp,N,106617,0,0,2017,0,N,12191,N,               ,SANDARIO RD              ,    ,0,TUC,0,Ryan C,724-8292
+2018,217000040,PProp,N,201521,0,0,2236,0,N,,,,,,,,0,Ryan C,724-8292
+2018,222000110,PProp,N,7546,0,0,0,0,N,,,,,,,,0,Ryan C,724-8292
+2018,222000120,PProp,N,7762,0,0,0,0,N,,,,,,,,0,Ryan C,724-8292
+2018,22250052J,PProp,N,249441,0,0,2465,0,N,10300,E,               ,SKI RUN                  ,    ,0,MTL,0,Ryan C,724-8292
+2018,222500860,PProp,N,330567,0,0,2184,0,N,10300,E,               ,SKI RUN                  ,    ,0,MTL,0,Ryan C,724-8292
+2018,302000050,PProp,N,1373,0,0,1,0,N,,,,,,,,0,Ryan C,724-8292
+2018,30476001A,Com,Y,846389,0,0,35680,0,N,601,S,               ,LA CANADA                ,    ,0,TUC,0,Ryan C,724-8292
